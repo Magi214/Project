@@ -1,16 +1,18 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="eng">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mageshwari - Portfolio</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-<body>
 <div class="profile-container">
         <img src="IMG_20250330_133333.jpg" alt="Profile Photo">
     </div>
+<body>
+
     <header>
+    
         <h1>MAGESHWARI</h1>
         <p><a href="mailto:[Your Email]">[magemageshwari411@gmail.com]</a> | [8925694467]</p>
     </header>
@@ -51,6 +53,7 @@
         <ul>
             <li>English</li>
             <li>Tamil</li>
+            <li>Telugu</li>
         </ul>
     </section>
 
@@ -67,14 +70,14 @@
     <section class="declaration">
         <h2>Declaration</h2>
         <p>I hereby declare that the above information is true and correct to the best of my knowledge.</p>
-        <p><strong>Signature:</strong> pushpalatha</p>
+        <p><strong>Signature:</strong> Mageshwari</p>
     </section>
-<section id="resume">
+    <section id="resume">
     
         <div class="section-content">
             <center>
             <h2>Resume</h2>
-            <a href="Screenshot_2025-03-28-12-20-13-44_7537 2ecd1fda05c59c9af469727b3110.jpg" target="_blank" class="download-button">Download CV</a>
+            <a href="./White Simple Student CV Resume (1).pdf" target="_blank" class="download-button">Download CV</a>
         </center>
         </div>
         
