@@ -6,7 +6,7 @@
     <title>Mageshwari - Portfolio</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-<img src="Phone/Download/IMG_20250326_143542.jpg" alt="Your Profile Picture" class="profile-picture">
+<img src="Phone/Download/IMG_20250330_133333.jpg" alt="Your Profile Picture" class="profile-picture">
 <body>
 
     <header>
@@ -73,7 +73,7 @@
         <div class="section-content">
             <center>
             <h2>Resume</h2>
-            <a href=".Phone/Pictures/Screenshots/Screenshot_2025-03-28-12-20-13-44_7537 2ecd1fda05c59c9af469727b3110.jpg" target="_blank" class="download-button">Download CV</a>
+            <a href=".Screenshot_2025-03-28-12-20-13-44_7537 2ecd1fda05c59c9af469727b3110jpg" target="_blank" class="download-button">Download CV</a>
         </center>
         </div>
         
