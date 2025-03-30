@@ -6,9 +6,10 @@
     <title>Mageshwari - Portfolio</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-<img src="Phone/Download/IMG_20250330_133333.jpg" alt="Your Profile Picture" class="profile-picture">
 <body>
-
+<div class="profile-container">
+        <img src="profile.jpg" alt="Profile Photo">
+    </div>
     <header>
         <h1>MAGESHWARI</h1>
         <p><a href="mailto:[Your Email]">[magemageshwari411@gmail.com]</a> | [8925694467]</p>
